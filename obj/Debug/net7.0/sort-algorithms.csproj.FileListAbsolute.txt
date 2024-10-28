@@ -1,0 +1,14 @@
+C:\Users\Samuel S\source\repos\csharp-examples\sort-algorithms\bin\Debug\net7.0\sort-algorithms.exe
+C:\Users\Samuel S\source\repos\csharp-examples\sort-algorithms\bin\Debug\net7.0\sort-algorithms.deps.json
+C:\Users\Samuel S\source\repos\csharp-examples\sort-algorithms\bin\Debug\net7.0\sort-algorithms.runtimeconfig.json
+C:\Users\Samuel S\source\repos\csharp-examples\sort-algorithms\bin\Debug\net7.0\sort-algorithms.dll
+C:\Users\Samuel S\source\repos\csharp-examples\sort-algorithms\bin\Debug\net7.0\sort-algorithms.pdb
+C:\Users\Samuel S\source\repos\csharp-examples\sort-algorithms\obj\Debug\net7.0\sort-algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel S\source\repos\csharp-examples\sort-algorithms\obj\Debug\net7.0\sort-algorithms.AssemblyInfoInputs.cache
+C:\Users\Samuel S\source\repos\csharp-examples\sort-algorithms\obj\Debug\net7.0\sort-algorithms.AssemblyInfo.cs
+C:\Users\Samuel S\source\repos\csharp-examples\sort-algorithms\obj\Debug\net7.0\sort-algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Samuel S\source\repos\csharp-examples\sort-algorithms\obj\Debug\net7.0\sort-algorithms.dll
+C:\Users\Samuel S\source\repos\csharp-examples\sort-algorithms\obj\Debug\net7.0\refint\sort-algorithms.dll
+C:\Users\Samuel S\source\repos\csharp-examples\sort-algorithms\obj\Debug\net7.0\sort-algorithms.pdb
+C:\Users\Samuel S\source\repos\csharp-examples\sort-algorithms\obj\Debug\net7.0\sort-algorithms.genruntimeconfig.cache
+C:\Users\Samuel S\source\repos\csharp-examples\sort-algorithms\obj\Debug\net7.0\ref\sort-algorithms.dll
